@@ -8,7 +8,7 @@ const Footer = () => {
         <div className='gap-[100px] h-[289px] w-[95vw] text-white' >
             <div className='flex justify-evenly items-between gap-4'>
                 <div className='h-[127px] w-[260px] mr-[100px]'>
-                    <Image src='/logo.png' alt='LogoImage' height={34} width={161} />
+                    <Image src='/Logo.png' alt='LogoImage' height={34} width={161} />
                     <p className='font-normal text-[16px] leading-[30px]'>
                     whitepace was created for the new ways we live and work. We make a better workspace around the world
                     </p>
